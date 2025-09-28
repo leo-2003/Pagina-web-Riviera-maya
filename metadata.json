@@ -1,0 +1,5 @@
+{
+  "name": "Pagina web Riviera Maya Luxe Investors",
+  "description": "Una plataforma web integral de 360° para un agente inmobiliario de élite, ahora totalmente funcional y conectada a una base de datos Supabase. Incluye un portal público dinámico y un panel de administración seguro con autenticación real (Supabase Auth) para la gestión completa (CRUD) de propiedades, leads e identidad del sitio.",
+  "requestFramePermissions": []
+}
